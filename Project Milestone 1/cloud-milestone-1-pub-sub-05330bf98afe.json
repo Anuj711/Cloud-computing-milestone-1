@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cloud-milestone-1-pub-sub",
+  "private_key_id": "05330bf98afe7486463874351d1a46921c894fde",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDOs8lCVIfMN2Gn\nZB8tkZYFz5ZadTebJcPHHP4Fblroog8xUBJStlbYF2kGm7ldTCqGCcE54RLKbJk3\nfenW4oP8enb9qBE7hN2Hq8B/TsHzOfl865MI7U5YCK2f6w2UR5tPvwyssqIpswIx\nsjs1TRAGHycgyLuvnkzN0yosbsg+VVN+22sr7OUI9ttJqIIlcW77sWTaoV7+SsjI\nLUjsZvGiZvP/KLLUM4DQ/mZiOWTV94VbDGh0Jq8eBo2z7qLv01v9rXZ5q42VbZMT\nAA8QK8az6IxHiJ78IkQeFioynmU+WfG3ZCFwIGkQ0yZK+RQ8zrLmYZhptWPzaypN\nhE5LK6ZZAgMBAAECggEAD+7PIlFuZPEWkkGRyasW26ckWXVUQ52bRAYvFRoW4Hxa\nxsamSEE329D0zoaYY4xTHCE1B2dwUbF3Sfi8WqJRNtf1w22ouQ7FHgfA1HoB/I6e\ndYuZui7DQt6Vtjr3FqlCW9jyetQLfe1cy5ndHdRX2jDyjNYMPug+gVW37X7d6Tf6\nQnBdk6qL8j5LjHgKX9WUttz+N4uvC4v483VQg14O0YGWANx6cprdWbnqIbmnnaIE\n0XcgwmqeyaG0llB7cGdCL0sc86HeIFGOYWMdZDqd34Ni1SIt6Sl6jvpwGUZ0ps/E\npt4cnhyNoCbd60955amshqvmr/ntzDS4djkSpZPtEQKBgQD7Vw/Pcdk7VQgUpQNy\nHx3O8fjhHm3OracLrTuJ/cnrFX++3IaGYIzLnTNxZJ1T3mA7bdFY4X/T8Gvdwcpj\nQbCQDCXLs+DuIzXc3aSbL7pgbbumdNtZ+P6NfPwxvzgq/PBivf1N5O+DcMutLr1I\nvYdxpCU5eFLR419RkMNQ34aRtQKBgQDSiNwLJUjo2zHUz4mr6VeRJoC7lkRKcAHj\nEuPlT2j4uJDP9m+q3j3TskjPeYHZbZ4obAaQzcFD3NoSgqZuj8d7W2UGnG6OYC0R\nbcB2OWV8QtWh6D9ZsBQAQXmxuJysr6EGjhkZGBirjE7bBl89rks/r+lcmeLtpRfK\nD5l4Dtx4lQKBgQC5C/lk9uJED6+6W191FznAEmD1hYy8/RcevrU2PHb8MMDzybL1\nnoIqqxuj4br/c5sQRiM6uBN/++O+yh3zA/s1ouv01QPG8H+IlFrLstEai8/7ls+k\np3DqxNl82tdEtyNY355uSh6ZfGNIpz/PHVNqNLr/W/pF84xLJjTXBysxfQKBgQDK\na4G9SZzfHZi8tsn0OsbRrQZK1cBVHXoC/C+XUxFnSfUZriRRUZp6RskQig/ZoDZX\nQP3TDbDK8bXN5EXmuWCfbxEkGRWG2FucjTxlruuvXIcQQz9dmRix4kICKLCiq74T\nkl35LZzSm3VZyreZk1GQKy8gtGhl+rxzrynsL8W0PQKBgQCgJ2Jl3hsfJOCN9+kk\neqCau8aZq4J0eLVXfcb/Rvu9nP0uUnkDr2a+flK3PTgutBNLgAaPNc8fMh47rMYT\nk4kpdwz4+pg/59drM5s3AfOi1c5p+ojdngBqAyPkBSY3GKWJPhvYkuJ41CCe2Zqq\ns8AY1V/daKUDO0brMibG0t2/Og==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pubsub-system@cloud-milestone-1-pub-sub.iam.gserviceaccount.com",
+  "client_id": "117631422450018953653",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pubsub-system%40cloud-milestone-1-pub-sub.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
