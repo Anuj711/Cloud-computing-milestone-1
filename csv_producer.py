@@ -21,7 +21,7 @@ def publish_csv_data(file_path):
         csv_reader = csv.DictReader(csv_file)
 
         for row in csv_reader:
-            # Data Cleaning: Handle empty strings (optional, mimics your smartMeter.py logic)
+            # Data Cleaning: Handle empty strings
             for key in row:
                 if row[key] == "":
                     row[key] = None
@@ -39,4 +39,5 @@ def publish_csv_data(file_path):
 if __name__ == "__main__":
     print(f"Starting producer for topic: {topic_name}...")
     publish_csv_data("Labels.csv")
+
     print("Finished publishing all records.")
