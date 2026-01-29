@@ -15,10 +15,10 @@ subscriber = pubsub_v1.SubscriberClient()
 subscription_path = subscriber.subscription_path(project_id, subscription_id)
 
 def callback(message: pubsub_v1.subscriber.message.Message) -> None:
-    # 1. Deserialize the message into a dictionary
+    # Deserialize the message into a dictionary
     data_dict = json.loads(message.data.decode("utf-8"))
 
-    # 2. Print the values of the dictionary
+    # Print the values of the dictionary
     print(f"Received Record: {data_dict}")
 
     # Acknowledge the message
@@ -34,4 +34,5 @@ if __name__ == "__main__":
         streaming_pull_future.result()
     except KeyboardInterrupt:
         streaming_pull_future.cancel()
+
         print("\nConsumer stopped.")
